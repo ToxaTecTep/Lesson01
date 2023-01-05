@@ -1,2 +1,4 @@
 Trying the powers
 пробуем теперь подружить git с VSCode
+
+minus new-branch
