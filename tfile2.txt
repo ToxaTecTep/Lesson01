@@ -1,1 +1,2 @@
 added file in brsnch
+пробуем теперь подружить git с VSCode
